@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Oi! Eu sou o João Victor 👋
+## Apaixonado por tecnologia, futebol e querendo fazer do mundo um lugar melhor
+- 🌱 Atualmente estou estudando SQL, JavaScript e C#. Após a conclusão de JavaScript e C# pretendo aprofundar os conhecimentos na parte WEB (HTML + CSS)
 <!--
 **JoaoVictorBezerra/joaovictorbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
