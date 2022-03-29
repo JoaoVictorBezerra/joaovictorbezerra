@@ -3,10 +3,10 @@
 - 🌱 Atualmente estou estudando SQL, JavaScript e C#. Após a conclusão de JavaScript e C# pretendo aprofundar os conhecimentos na parte WEB (HTML + CSS)
 - <div align="center">
   <a href="https://github.com/JoaoVictorBezerra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&icon_color=fcf400&border_color=ff0000&border_radius=5&title_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&icon_color=fcf400&border_color=58a6ff&border_radius=5&title_color=58a6ff"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
