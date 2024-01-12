@@ -1,51 +1,29 @@
-# Hello folks! I'm João Victor <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
-<img src="https://github.com/JoaoVictorBezerra/joaovictorbezerra/blob/main/images/joao-victor_banner.png?raw=true" />
-I'm a front-end developer who love create solutions, solve problem, talking about codes and learning everything about technology. Some technologies I enjoy working with includes HTML, CSS, JavaScript and Vue.js. I started my carrer as front end developer in 2022. My interesting in stack front end it started during on university.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Technologies
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.svgporn.com/logos/jquery.svg" width="40" height="40"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-</div>
+<p align="left"> 
+  Olá, meu nome é João Victor, e sou um estudante de Sistemas de Informação. Além disso, atuo como Engenheiro de Software, contribuindo para o campo do desenvolvimento.
+  Estou apaixonado por explorar as complexidades da tecnologia e encontrar maneiras eficientes de resolver problemas por meio da programação.
+  No momento, estou focado em aprimorar minhas habilidades profissionais e contribuir para o avanço contínuo da área de desenvolvimento de software.
+</p>
 
-## Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-</div>
+<p align="left">
+  🦄 Linguagens: Javascript, Typescript, Java, SQL, HTML e CSS.
+</p>
 
-## Os
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>
-</div>
+<p align="left">
+  💼 Ferramentas: AWS, MySQL, Springboot, Node.
+</p>
 
-## Social Medias
-- <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a62b62204/">Linkedin</a>
-- <a href="https://stackshare.io/joaovictorbezerra">Stackshare</a>
-- <a href="https://instagram.com/jvic01_">Instagram</a>
+### Experiência de trabalho
 
-## Some Facts:
-- I'm currently studying IT course known as Information Systems at <a href="https://unisanta.br">Universidade Santa Cecília</a>.
-- I'm currently studying about Good Practices, Clean Code and Architecture.
-- I love to talk about soccer, about new tech's and codes.
-- I'm currently working at <a href="https://onebox.one">OneBox</a>
-- I'm currently learning hard skills as front-end development and some back-end development.
-<!-- - A fun fact: -->
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-### [Contact me 📩](mailto:dev.joaovictor@hotmail.com)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFr_bksDnLOJg/company-logo_200_200/0/1688654074237/onebox_idtech_logo?e=2147483647&v=beta&t=NI-tSg5rFeYlZsoPp6Ylk5KZUW5e-OoGGlhegacw39M"/>](https://www.spacex.com/)
 
-### [Contribute with my projects 🌎](https://github.com/JoaoVictorBezerra?tab=repositories)
+**Software Engineer** \
+[**Onebox**](https://www.onebox.one/) • Full-time \
+Linguagens & Tecnologias: `Flutter`, `Java`, `SQL`, `AWS`\
+Projetos em destaque: [DNE Digital](https://www.documentodoestudante.com.br/),
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
